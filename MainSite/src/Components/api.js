@@ -1,4 +1,6 @@
-const BASE_URL = 'http://localhost:5000/api';
+// const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'https://business-pro.onrender.com/api';
+
 
 // Helper function to handle fetch requests
 async function request(method, url, data = null) {
