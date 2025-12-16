@@ -1,5 +1,7 @@
 # 🏗️ Construction Business Pro
 
+> **Note:** This is an internship project - a demo replication of the original application.
+
 A powerful full-stack web application built with **React** and **Node.js** tailored for construction businesses to manage **inventory**, **sales**, **customers**, **expenses**, and more — all from one dashboard.
 
 ![React](https://img.shields.io/badge/Frontend-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
